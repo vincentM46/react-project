@@ -17,8 +17,9 @@ This is a mockup of what the app would look like when displayed on a desktop web
 Component Hierarchy: A visual tree of your components, depicting the parent/child relationships, as well as an indication of which will be class components, requiring state, and which will be functional components, taking props.
 
 
+![Flowcharts](https://user-images.githubusercontent.com/105744102/180790772-59311617-9742-4a6e-880b-6125ea26ab53.png)
 
-![reactProjectComponentTree](https://user-images.githubusercontent.com/105744102/180719771-d44d8171-69bd-430e-9ad3-6887b16f2fa1.png)
+
 
 API: The API you will be using and a link to the documentation.
 
