@@ -10,11 +10,15 @@ Wireframes: Mockups of your app on desktop, tablet, and mobile.
 
 Wireframe: https://www.figma.com/file/X4aPyReRHULeIJmu9P0rcW/reactProject-desktop
 
+![reactProjectWireFrame](https://user-images.githubusercontent.com/105744102/180720250-af9936cb-0f66-485a-bfec-5adcdc39d60e.png)
+
+This is a mockup of what the app would look like when displayed on a desktop webpage, as well as how the app would most likely be visualized when displayed on both a mobile device, and a tablet.
 
 Component Hierarchy: A visual tree of your components, depicting the parent/child relationships, as well as an indication of which will be class components, requiring state, and which will be functional components, taking props.
 
 
 
+![reactProjectComponentTree](https://user-images.githubusercontent.com/105744102/180719771-d44d8171-69bd-430e-9ad3-6887b16f2fa1.png)
 
 API: The API you will be using and a link to the documentation.
 
