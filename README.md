@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+Welcome to my react project submission:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+            Random Recipe Generator!
+            
+Description: 4 to 5 sentences in non-technical speak summarizing the features, functions, and goals.
 
-## Available Scripts
+    This app can be used by virtually anybody! Hungry but don't know what to make? In the mood to explore some culturally different foods? Perhaps you're just bored and want to see some cool pictures of food and read up on how different things are made! Well this app can do it all! At a single click of a button, any user will be able to generate any sort of recipe for their own preference and pleasure!
 
-In the project directory, you can run:
+Wireframes: Mockups of your app on desktop, tablet, and mobile.
 
-### `npm start`
+Wireframe: https://www.figma.com/file/X4aPyReRHULeIJmu9P0rcW/reactProject-desktop
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Component Hierarchy: A visual tree of your components, depicting the parent/child relationships, as well as an indication of which will be class components, requiring state, and which will be functional components, taking props.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+API: The API you will be using and a link to the documentation.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    The API I have selected for usage in this application is the Spoonacular API; one of the top 10 most popular food-related API's used globally, the Spoonacular API consists of thousands upon thousands of recipes, each with their own ingredients, directions, images, and much more! The Spoonacular API allows a user to generate completely random recipes, filter by nutitional value, ingredients, and so much more! 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Documentation: https://spoonacular.com/food-api/docs
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+MVP: Your goals for MVP, including the minimum, need-to-have features of your app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    The goals for this application's MVP include the ability to randomly generate and render recipes from the Spoonacular API, as well as give a brief description of the steps necessary to create and fulfill the recipe. The minimum, must-have features of this app include the random-generating inputs, as well as the descriptive About Us page, and (in-progress)Sign-Up page.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Post-MVP: Write out what your goals are for post-MVP, including nice-to-have features that you would like to implement once your MVP is complete. (If you plan to use a component library, please link that here as well.)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    Post-MVP goals are focused around developing and completing the back-end dataframe for users to sucessfully sign-up for the app and be subscribed to weekly random recipes!
